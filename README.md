@@ -9,4 +9,4 @@ The DES may be seen as a general, multi-tasking application that can execute con
 
 User-Manual:
 
-http://saocompute.eurac.edu/documents/DES_User_Manual.pdf
+https://gitlab.inf.unibz.it/css-public/des_documentation
